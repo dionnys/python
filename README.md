@@ -1,4 +1,4 @@
-Este script de python  es usado para destinonar una base 
+Este script de python  es usado para Gestinonar una base 
 de datos Radius de un servicio VPN
 
 Written by : Dionnys Bonalde.
